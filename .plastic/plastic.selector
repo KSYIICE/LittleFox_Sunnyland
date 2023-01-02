@@ -1,0 +1,4 @@
+repository "LittleFox@syiice@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
