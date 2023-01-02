@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Map
+  - Cherry
+  - Enemies
+  - Deadline
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - BackGround
+  - Map
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 4076147171
+    locked: 0
+  - name: Environment
+    uniqueID: 755856919
+    locked: 0
+  - name: Map
+    uniqueID: 3866278763
+    locked: 0
+  - name: tool
+    uniqueID: 3126602643
+    locked: 0
+  - name: Player
+    uniqueID: 2061403497
+    locked: 0
+  - name: Front
+    uniqueID: 2382135647
+    locked: 0
